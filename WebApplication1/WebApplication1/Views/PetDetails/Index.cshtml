@@ -1,0 +1,89 @@
+﻿@model IEnumerable<WebApplication1.Models.PetDetail>
+
+@{
+    ViewData["Title"] = "PetDetails";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" style="color: orange;">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Pet UniqueID
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PetName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Species)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Breed)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Colour)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OwnerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ownercontact)
+            </th>
+            <th>
+                Price 
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PetName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Species)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Breed)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Colour)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.OwnerName)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Ownercontact)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.price) Rs
+                </td>
+            <td>
+                    <a asp-action="Edit" style="color: orange;" asp-route-id="@item.Id">Edit</a> 
+                    <a asp-action="Details" style="color: orange;" asp-route-id="@item.Id">Details</a> 
+                    <a asp-action="Delete" style="color: orange;" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

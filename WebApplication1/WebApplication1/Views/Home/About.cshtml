@@ -1,0 +1,110 @@
+﻿@{
+    ViewData["Title"] = "About us";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PetPals</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebApplication1.styles.css" asp-append-version="true" />
+    <!-- <link rel="manifest" href="site.webmanifest"> -->
+    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+    <!-- Place favicon.ico in the root directory -->
+    <!-- CSS here -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="css/nice-select.css">
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/gijgo.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/slicknav.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+    <div class="bradcam_area breadcam_bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="bradcam_text text-center">
+                        <h3>About us</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mt-3">
+        <p style="color: black;">Welcome to PAWFINDS, your trusted companion in finding forever homes for pets, offering quality pet food, and providing top-notch veterinary care. Our mission is simple: to connect loving families with pets in need and ensure they receive the best care throughout their lives.</p>
+
+        <h3>Who We Are</h3>
+        <p style="color: black;">We are passionate animal lovers who believe every pet deserves a safe, loving home. Our team works tirelessly to rescue, rehabilitate, and rehome pets, giving them a second chance at happiness. Whether you’re looking to adopt a furry friend or ensure your current pet gets the best care, we’re here for you every step of the way.</p>
+
+        <h3>What We Offer</h3>
+        <p style="color: black;">Pet Adoption: Browse through our adoption listings and meet pets waiting for their new forever families. Our process is simple, transparent, and designed to find the perfect match between pets and owners.</p>
+
+        <p style="color: black;">Pet Food Catalog: Keep your pets happy and healthy with our curated range of premium pet food. We offer a variety of nutritious options tailored to meet the unique needs of your furry companions.</p>
+
+        <p style="color: black;">Veterinary Services: Health and well-being are a priority for every pet. Our on-site veterinary services provide routine check-ups, vaccinations, and emergency care, ensuring your pets live long and healthy lives.</p>
+    </div>
+
+
+    @*     <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script> *@
+    @*     @await RenderSectionAsync("Scripts", required: false) *@
+
+    <script src="js/vendor/modernizr-3.5.0.min.js"></script>
+    <script src="js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/isotope.pkgd.min.js"></script>
+    <script src="js/ajax-form.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/scrollIt.js"></script>
+    <script src="js/jquery.scrollUp.min.js"></script>
+    <script src="js/wow.min.js"></script>
+    <script src="js/nice-select.min.js"></script>
+    <script src="js/jquery.slicknav.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/gijgo.min.js"></script>
+
+    <!--contact js-->
+    <script src="js/contact.js"></script>
+    <script src="js/jquery.ajaxchimp.min.js"></script>
+    <script src="js/jquery.form.js"></script>
+    <script src="js/jquery.validate.min.js"></script>
+    <script src="js/mail-script.js"></script>
+
+    <script src="js/main.js"></script>
+    <script>
+        $('#datepicker').datepicker({
+            iconsLibrary: 'fontawesome',
+            disableDaysOfWeek: [0, 0],
+            //     icons: {
+            //      rightIcon: '<span class="fa fa-caret-down"></span>'
+            //  }
+        });
+        $('#datepicker2').datepicker({
+            iconsLibrary: 'fontawesome',
+            icons: {
+                rightIcon: '<span class="fa fa-caret-down"></span>'
+            }
+
+        });
+        var timepicker = $('#timepicker').timepicker({
+            format: 'HH.MM'
+        });
+    </script>
+</body>
+</html>
