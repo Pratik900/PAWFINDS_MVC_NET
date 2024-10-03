@@ -16,5 +16,7 @@ namespace WebApplication1.Models
         public string? OwnerName { get; set;}
         public long? Ownercontact { get; set;}
         public long? price { get; set;}
+
+        public bool? IsAdopted { get;set;}=false;
     }
 }

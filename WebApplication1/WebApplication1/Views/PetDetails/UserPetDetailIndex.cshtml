@@ -3,11 +3,11 @@
 @{
     ViewData["Title"] = "PetDetails";
 }
-
-<h1>Index</h1>
+@* 
+<h1>Index</h1> *@
 
 <p>
-    <a asp-action="Create" style="color: orange;">Donate</a>
+    <a asp-action="UserCreate" style="color: orange;">Donate</a>
 </p>
 <table class="table">
     <thead>
@@ -79,10 +79,15 @@
                     @Html.DisplayFor(modelItem => item.price) Rs
                 </td>
             <td>
-                    <a asp-action="UserVerify" style="color: orange;" asp-route-id="@item.Id">Adop</a>
-@*                     <a asp-action="Edit" style="color: orange;" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" style="color: orange;" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" style="color: orange;" asp-route-id="@item.Id">Delete</a> *@
+                @if(item.IsAdopted == false)
+                {
+                        <a asp-action="UserVerify" style="color: orange;" asp-route-id="@item.Id">Adop</a>
+                }
+                else
+                {
+                    <a  style="color: green;" >Adoped</a>
+                        
+                }
             </td>
         </tr>
 }

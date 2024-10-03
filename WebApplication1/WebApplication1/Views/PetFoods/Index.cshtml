@@ -4,74 +4,29 @@
     ViewData["Title"] = "PetFood";
 }
 
-<h1>Index</h1>
-
 <p>
-    <a asp-action="Create" style="color: orange;">Create New</a>
+    <a asp-action="Create" style="color: orange;">Add Food Services</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.ProductName)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Brand)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Species)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Calories)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.PackageSize)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Prize)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.ExpDate)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Certifications)
-            </th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.ProductName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Brand)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Species)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Calories)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.PackageSize)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Prize)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ExpDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Certifications)
-            </td>
-            <td>
-                    <a asp-action="Edit" style="color: orange;" asp-route-id="@item.Id">Edit</a> |
-                    <a asp-action="Details" style="color: orange;" asp-route-id="@item.Id">Details</a> |
-                    <a asp-action="Delete" style="color: orange;" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
-    </tbody>
-</table>
+
+<div class="row">
+    @foreach (var item in Model) 
+    {
+        <div class="col-md-3 mb-3">
+                <div class="card" style="width: 18rem;">
+                <div class="card-body" style="color: black;">
+
+                        <h5 class="card-title"> @Html.DisplayFor(modelItem => item.ProductName)</h5>
+                    <p class="card-text" style="color: black;">
+                        <strong>Brand:</strong> @Html.DisplayFor(modelItem => item.Brand)<br />
+                        <strong>Calories:</strong> @Html.DisplayFor(modelItem => item.Calories)<br />
+                        <strong>Species:</strong> @Html.DisplayFor(modelItem => item.Species)<br />
+                    </p>
+
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="card-link" style="color: orange;">Edit</a>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="card-link" style="color: orange;">Details</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="card-link" style="color: orange;">Delete</a>
+                    </div>
+                </div>
+        </div>
+    }
+</div>

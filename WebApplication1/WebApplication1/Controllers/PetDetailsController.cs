@@ -5,6 +5,7 @@ using System.Security.Claims;
 using System.Threading.Tasks;
 using Google.Protobuf.WellKnownTypes;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -32,6 +33,13 @@ namespace WebApplication1.Controllers
 
         public async Task<IActionResult> UserPetDetailIndex()
         {
+            var userEmail = HttpContext.User.FindFirstValue(ClaimTypes.Email);
+            var userName = userEmail != null ? new string(userEmail.Split('@')[0].Where(c => char.IsLetter(c)).ToArray()) : "User";
+
+            if(userName=="Admin")
+            {
+                return RedirectToAction("Index", "PetDetails");
+            }
             return View(await _context.PetDetails.ToListAsync());
         }
 
@@ -116,6 +124,26 @@ namespace WebApplication1.Controllers
                 _context.Add(petDetail);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
+            }
+            return View(petDetail);
+        }
+
+        public IActionResult UserCreate()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> UserCreate([Bind("Id,PetName,Species,Breed,Age,Gender,Colour,OwnerName,Ownercontact,price")] PetDetail petDetail)
+        {
+            if (ModelState.IsValid)
+            {
+                petDetail.Id = Guid.NewGuid();
+                _context.Add(petDetail);
+                await _context.SaveChangesAsync();
+               // return RedirectToAction("UserPetDetailsIndex","PetDetails");
+                return RedirectToAction("UserPetDetailIndex", "PetDetails");
             }
             return View(petDetail);
         }

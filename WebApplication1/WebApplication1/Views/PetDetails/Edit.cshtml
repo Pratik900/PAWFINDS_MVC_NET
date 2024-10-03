@@ -12,54 +12,54 @@
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <input type="hidden" asp-for="Id" />
+            <input required type="hidden" asp-for="Id" />
             <div class="form-group">
                 <label asp-for="PetName" class="control-label"></label>
-                <input asp-for="PetName" class="form-control" />
+                <input required asp-for="PetName" class="form-control" />
                 <span asp-validation-for="PetName" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Species" class="control-label"></label>
-                <input asp-for="Species" class="form-control" />
+                <input required asp-for="Species" class="form-control" />
                 <span asp-validation-for="Species" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Breed" class="control-label"></label>
-                <input asp-for="Breed" class="form-control" />
+                <input required asp-for="Breed" class="form-control" />
                 <span asp-validation-for="Breed" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Age" class="control-label"></label>
-                <input asp-for="Age" class="form-control" />
+                <input required asp-for="Age" class="form-control" />
                 <span asp-validation-for="Age" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Gender" class="control-label"></label>
-                <input asp-for="Gender" class="form-control" />
+                <select asp-for="Gender" class="form-control" asp-items="@(new SelectList(new[] { "Male", "Female", "Other" }))"></select>
                 <span asp-validation-for="Gender" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Colour" class="control-label"></label>
-                <input asp-for="Colour" class="form-control" />
+                <input required asp-for="Colour" class="form-control" />
                 <span asp-validation-for="Colour" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="OwnerName" class="control-label"></label>
-                <input asp-for="OwnerName" class="form-control" />
+                <input required asp-for="OwnerName" class="form-control" />
                 <span asp-validation-for="OwnerName" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="Ownercontact" class="control-label"></label>
-                <input asp-for="Ownercontact" class="form-control" />
+                <input required asp-for="Ownercontact" class="form-control" />
                 <span asp-validation-for="Ownercontact" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="price" class="control-label"></label>
-                <input asp-for="price" class="form-control" />
+                <input required asp-for="price" class="form-control" />
                 <span asp-validation-for="price" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-warning" />
+                <input required type="submit" value="Save" class="btn btn-warning" />
             </div>
         </form>
     </div>

@@ -11,7 +11,7 @@ namespace WebApplication1.Models
 
         public string? FullName { get; set; }
 
-        public string? Designation { get; private set; }
+        public string? Designation { get; set; }
 
         public string? EmailAddress { get; set; }
 

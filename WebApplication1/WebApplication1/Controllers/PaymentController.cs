@@ -52,6 +52,11 @@ namespace Razorpaycore8.Controllers
                     UniqueID = uniqueId
                 };
 
+                Guid id = Guid.Parse(uniqueId);
+                var petDetail = await _context.PetDetails.FindAsync(id);
+                petDetail.IsAdopted = true;
+                await _context.SaveChangesAsync();
+
                 _context.MerchantOrders.Add(merchantOrder);
                 await _context.SaveChangesAsync();
 

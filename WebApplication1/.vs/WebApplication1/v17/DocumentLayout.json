@@ -3,64 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\controllers\\veterinarydrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\veterinarydrscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\controllers\\petfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\petfoodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\models\\veterinarydr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\veterinarydr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\controllers\\petdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\petdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\veterinarydrs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\veterinarydrs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\veterinarydrs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\veterinarydrs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\veterinarydrs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\veterinarydrs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\petdetails\\userpetdetailindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\petdetails\\userpetdetailindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\veterinarydrs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\veterinarydrs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\petdetails\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\petdetails\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\veterinarydrs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\veterinarydrs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\payment\\payment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\models\\petdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\petdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\petfoods\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\petfoods\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\paymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\payment\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\petfoods\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\petfoods\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\models\\petfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\petfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|c:\\users\\prati\\onedrive\\desktop\\-\\projects\\petadoption.netmvc\\webapplication1\\webapplication1\\views\\petdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9DEC07F6-BDBE-4893-9276-4B5DD50E0C0F}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\petdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,196 +71,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VeterinaryDrsController.cs",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\VeterinaryDrsController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\VeterinaryDrsController.cs",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\VeterinaryDrsController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\VeterinaryDrsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T23:38:01.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PetFoodsController.cs",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\PetFoodsController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PetFoodsController.cs",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\PetFoodsController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\PetFoodsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T23:37:52.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppRolesController.cs",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\AppRolesController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AppRolesController.cs",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\AppRolesController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\AppRolesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T23:37:13.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserPetDetailIndex.cshtml",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetDetails\\UserPetDetailIndex.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\PetDetails\\UserPetDetailIndex.cshtml",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetDetails\\UserPetDetailIndex.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\PetDetails\\UserPetDetailIndex.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T23:15:07.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetDetails\\UserDetails.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\PetDetails\\UserDetails.cshtml",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetDetails\\UserDetails.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\PetDetails\\UserDetails.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAEcAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T23:05:25.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PetDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\PetDetailsController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PetDetailsController.cs",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\PetDetailsController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\PetDetailsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T22:44:20.085Z",
+              "WhenOpened": "2024-10-03T19:02:53.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PaymentController.cs",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\PaymentController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\PaymentController.cs",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Controllers\\PaymentController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\PaymentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T22:14:23.28Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\VeterinaryDrs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\VeterinaryDrs\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:54:43.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PaymentRequest.cs",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\PaymentRequest.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\PaymentRequest.cs",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\PaymentRequest.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\PaymentRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\VeterinaryDrs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Details.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\VeterinaryDrs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:54:36.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\VeterinaryDrs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\VeterinaryDrs\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:54:29.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeterinaryDr.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\VeterinaryDr.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\VeterinaryDr.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\VeterinaryDr.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\VeterinaryDr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T22:14:19.28Z",
+              "WhenOpened": "2024-10-03T18:46:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\VeterinaryDrs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\VeterinaryDrs\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:47:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\VeterinaryDrs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\VeterinaryDrs\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\VeterinaryDrs\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:45:52.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Service\\PaymentService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Service\\PaymentService.cs",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Service\\PaymentService.cs",
-              "RelativeToolTip": "WebApplication1\\Service\\PaymentService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAiwCsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T22:13:42.367Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetFoods\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\PetFoods\\Index.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetFoods\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\PetFoods\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T18:42:13.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "payment.cshtml",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Payment\\payment.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Payment\\payment.cshtml",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Payment\\payment.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Payment\\payment.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAADgAAAAlAAAA",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetFoods\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\PetFoods\\Create.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetFoods\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\PetFoods\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADQAAACOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T22:13:06.286Z",
+              "WhenOpened": "2024-10-03T18:37:41.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Success.cshtml",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Payment\\Success.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Payment\\Success.cshtml",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Payment\\Success.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Payment\\Success.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T22:12:53.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T18:51:36.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "PetFood.cs",
               "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\PetFood.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Models\\PetFood.cs",
               "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\PetFood.cs",
               "RelativeToolTip": "WebApplication1\\Models\\PetFood.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:28:31.85Z",
+              "WhenOpened": "2024-10-03T18:36:24.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAACAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T15:13:10.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentIndex": 7,
+              "Title": "PetDetail.cs",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\PetDetail.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\PetDetail.cs",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Models\\PetDetail.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\PetDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:36:22.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\PetDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\prati\\OneDrive\\Desktop\\-\\Projects\\PetAdoption.NetMVC\\WebApplication1\\WebApplication1\\Views\\PetDetails\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\PetDetails\\Create.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-02T15:13:05.836Z",
+              "WhenOpened": "2024-10-03T18:23:34.04Z",
               "EditorCaption": ""
             }
           ]

@@ -7,7 +7,7 @@ namespace WebApplication1.Models
         [Key]
         public Guid Id { get; set; }
         public string? ProductName { get; set; }
-        public string? Brand { get; private set; }
+        public string? Brand { get; set; }
 
         public string? Species { get; set; }
 
